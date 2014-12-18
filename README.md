@@ -4,26 +4,26 @@ Known as CMS, Appolo came to make its users comfortable to post, create, approve
 
 root (instructions only on this page):
 	|
-	-> scripts/init.inc.php
+	- scripts/init.inc.php
 		|
-		-> scripts/config.inc.php
+		- scripts/config.inc.php
 			|
-			-> scripts/context.inc.php ( dev / prod / test )
-			-> scripts/urls.inc.php ( URL'S )
-			-> scripts/includes.inc.php ( TEMPLATES )
-			-> scripts/classes.inc.php ( CLASSES )
+			- scripts/context.inc.php ( dev / prod / test )
+			- scripts/urls.inc.php ( URL'S )
+			- scripts/includes.inc.php ( TEMPLATES )
+			- scripts/classes.inc.php ( CLASSES )
 				|
-				-> classes/config.inc.php ( CONFIG STATIC CLASSES )
-				-> classes/appolo.class.php [ APPOLO FUNCTIONS (BASIC) ]
-				-> classes/util.class.php ( UTILITY FUNCTIONS )
-				-> classes/appolo_gui.class.php ( APPOLO GUI )
-				-> classes/appolo_dispatcher.class.php ( APPOLO DISPATCHER )
+				- classes/config.inc.php ( CONFIG STATIC CLASSES )
+				- classes/appolo.class.php [ APPOLO FUNCTIONS (BASIC) ]
+				- classes/util.class.php ( UTILITY FUNCTIONS )
+				- classes/appolo_gui.class.php ( APPOLO GUI )
+				- classes/appolo_dispatcher.class.php ( APPOLO DISPATCHER )
 					|
 					classes/dispatch.inc.php
-				-> classes/appolo_twig.class.php ( APPOLO (INTEGRATION W/ TWIG) )
-			<-
-		<-
+				- classes/appolo_twig.class.php ( APPOLO (INTEGRATION W/ TWIG) )
+			--
+		--
 
-		-> includes/init.inc.php ( CREATE OBJECTS )
-		<-
-	<-
+		- includes/init.inc.php ( CREATE OBJECTS )
+		--
+	--
