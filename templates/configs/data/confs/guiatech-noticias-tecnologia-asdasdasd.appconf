@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>asdasdasd</name>
+  <type>section</type>
+  <id>129</id>
+  <config>guiatech-noticias-tecnologia-asdasdasd.appconf</config>
+  <data></data>
+  <form>guiatech-noticias-tecnologia-asdasdasd.asdasdasd</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-tecnologia-asdasdasd.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+</config>

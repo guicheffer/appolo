@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>Especifa&#xE7;&#xF5;es</name>
+  <user>1</user>
+  <type>page</type>
+  <id>63</id>
+  <config>guiatech-paginas-desktops-especifacoes.appconf</config>
+  <data>guiatech-paginas-desktops-especifacoes.appcontent</data>
+  <form>guiatech-paginas-desktops-especifacoes.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>desktops-especifacoes.inc</staging>
+          <live>desktops-especifacoes.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-desktops-especifacoes.apptmpl</file>
+  </tmpls>
+  <preview>desktops-especifacoes.shtml</preview>
+  <status>1</status>
+</config>

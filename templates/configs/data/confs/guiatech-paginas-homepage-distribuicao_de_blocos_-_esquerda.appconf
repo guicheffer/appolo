@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>Distribui&#xE7;&#xE3;o de Blocos - Esquerda</name>
+  <user>1</user>
+  <type>page</type>
+  <id>72</id>
+  <config>guiatech-paginas-homepage-distribuicao_de_blocos_-_esquerda.appconf</config>
+  <data>guiatech-paginas-homepage-distribuicao_de_blocos_-_esquerda.appcontent</data>
+  <form>guiatech-paginas-homepage-distribuicao_de_blocos.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>includes/left_column.inc</staging>
+          <live>includes/left_column.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-homepage-distribuicao_de_blocos.apptmpl</file>
+  </tmpls>
+  <preview>index.shtml</preview>
+  <status>0</status>
+</config>

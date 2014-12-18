@@ -1,0 +1,26 @@
+{% for box in chamada %}
+
+<div class="box manchete">
+  <h2>{{box.titulo}}</h2>
+
+  {% for news in box.item %}
+  <div class="item">
+    <a href="{{news.url}}">
+      <img src="{{news.img}}">
+      <p class="description">{{news.titulo}}</p>
+    </a>
+    <ul class="links">
+      {% for link in news.links %}
+        {% if link.url != '' %}
+        <li><a href="{{link.url}}">{{link.titulo}}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+
+</div>
+
+{% endfor %}
+
+<!--//-->

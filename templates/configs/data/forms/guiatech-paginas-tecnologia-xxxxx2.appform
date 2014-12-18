@@ -1,0 +1,133 @@
+<<<<<<< HEAD
+<group name="group_name" title="Nome do grupo">
+
+  <field name="field_nameXX" type="text" notnull>
+    <label>Campo de testé</label>
+    <input max="50"/>
+    <hint>Digite qualquer valor!</hint>
+  </field>
+  
+	<group name="group_child" max="2" min="1" repeat title="Nome do filho">
+
+      <field name="field_nameXX" type="text" notnull>
+          <label>Campo de testé</label>
+          <input max="50"/>
+          <hint>Digite qualquer valor!</hint>
+      </field>
+
+      <field name="field_name2" type="text" notnull>
+          <label>Campo de teste 2</label>
+          <input max="50"/>
+          <hint>Digite qualquer outro valor!</hint>
+      </field>
+  
+      <group name="group_grandson" max="2" min="1" repeat title="Nome do neto">
+
+        <field name="OLHASOFILHO1" type="text" notnull>
+            <label>Campo de teste do neto</label>
+            <input max="50"/>
+            <hint>Digite qualquer valor para o neto!</hint>
+        </field>
+
+        <field name="OLHASOFILHO2" type="text" notnull>
+            <label>Campo de teste do neto</label>
+            <input max="50"/>
+            <hint>Digite qualquer valor para o neto!</hint>
+        </field>
+
+        <field name="OLHASOFILHO3" type="text" notnull>
+            <label>Campo de teste do neto</label>
+            <input max="50"/>
+            <hint>Digite qualquer valor para o neto!</hint>
+        </field>
+  
+	    <group name="group_grandsonSONSON" max="2" min="1" repeat title="Nome do neto">
+
+          <field name="OLHASONETO1" type="text" notnull>
+              <label>Campo de teste do neto</label>
+              <input max="50"/>
+              <hint>Digite qualquer valor para o neto!</hint>
+          </field>
+
+          <field name="OLHASONETO2" type="text" notnull>
+              <label>Campo de teste do neto</label>
+              <input max="50"/>
+              <hint>Digite qualquer valor para o neto!</hint>
+          </field>
+
+        </group>
+
+      </group>
+      
+	</group>
+
+</group>
+
+<group name="teste">
+
+      <field name="field_name2" type="text" notnull>
+          <label>Campo de teste 2</label>
+          <input max="50"/>
+          <hint>Digite qualquer outro valor!</hint>
+      </field>
+</group>
+
+<group name="teste2">
+
+      <field name="field_name2" type="text" notnull>
+          <label>Campo de teste 2</label>
+          <input max="50"/>
+          <hint>Digite qualquer outro valor!</hint>
+      </field>
+  
+=======
+<<<<<<< HEAD
+<group name="group_name" title="Nome do grupo">
+
+	<field name="field_name" type="text" notnull>
+		<label>Nome do campo</label>
+		<input max="50"/>
+		<hint>Dica para o campo</hint>
+	</field>
+
+=======
+<group name="group_name" title="Nome do grupo">
+  
+	<group name="group_child" max="2" min="1" repeat title="Nome do filho">
+
+      <field name="field_name1" type="text" notnull>
+          <label>Campo de teste</label>
+          <input max="50"/>
+          <hint>Digite qualquer valor!</hint>
+      </field>
+
+      <field name="field_name2" type="text" notnull>
+          <label>Campo de teste 2</label>
+          <input max="50"/>
+          <hint>Digite qualquer outro valor!</hint>
+      </field>
+  
+      <group name="group_grandson" max="2" min="1" repeat title="Nome do neto">
+
+        <field name="field_name3" type="text" notnull>
+            <label>Campo de teste do neto</label>
+            <input max="50"/>
+            <hint>Digite qualquer valor para o neto!</hint>
+        </field>
+
+      </group>
+      
+	</group>
+
+</group>
+
+<group name="teste">
+
+      <field name="field_name2" type="text" notnull>
+          <label>Campo de teste 2</label>
+          <input max="50"/>
+          <hint>Digite qualquer outro valor!</hint>
+      </field>
+>>>>>>> 55d941ef9425c12af9fc8e7b64523bfa8c553d4a
+>>>>>>> 549b5be0e9f53d53c2df5a8520942a6a5c21af5c
+</group>

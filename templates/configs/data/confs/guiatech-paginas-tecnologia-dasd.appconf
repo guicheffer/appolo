@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>DASD</name>
+  <user>1</user>
+  <type>page</type>
+  <id>66</id>
+  <config>guiatech-paginas-tecnologia-dasd.appconf</config>
+  <data>guiatech-paginas-tecnologia-dasd.appcontent</data>
+  <form>guiatech-paginas-tecnologia-dasd.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-dasd.inc</staging>
+          <live>tecnologia-dasd.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-dasd.apptmpl</file>
+  </tmpls>
+  <preview>tecnologia-dasd.shtml</preview>
+  <status>0</status>
+</config>

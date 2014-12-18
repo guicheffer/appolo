@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>NOMEXTENSOP RAC ACARALEO EITAPROAOR</name>
+  <type>page</type>
+  <id>40</id>
+  <config>guiatech-paginas-tecnologia-ajsidjiasjdiajdijaisdji_oasidoias_odioasidiijjk.appconf</config>
+  <data>guiatech-paginas-tecnologia-nomextensop_rac_acaraleo_eitaproaor.appcontent</data>
+  <form>guiatech-paginas-tecnologia-nomextensop_rac_acaraleo_eitaproaor.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-nomextensop_rac_acaraleo_eitaproaor.inc</staging>
+          <live>tecnologia-nomextensop_rac_acaraleo_eitaproaor.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-nomextensop_rac_acaraleo_eitaproaor.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-nomextensop_rac_acaraleo_eitaproaor.shtml</preview>
+</config>

@@ -1,0 +1,43 @@
+{
+    "group_name": [
+        {
+            "field_name": "PRIMEIRO CAMPOS DE TODOS",
+            "textarea": "SEGUNDO CAMPO DE TODOS",
+            "group_name2": {
+                "2": {
+                    "fildinho": "PRIMEIRO DO PRIMEIRO GRUPO",
+                    "group_name3": {
+                        "1": {
+                            "field_name": "EITCHA",
+                            "field_name2": "ASDASD"
+                        },
+                        "2": {
+                            "field_name": "",
+                            "field_name2": ""
+                        },
+                        "3": {
+                            "field_name": "ASDASDASDASD",
+                            "field_name2": "ASDASDASDASD"
+                        }
+                    },
+                    "fildinho2": "ESSE \u00c9 O SEGUNDO POW!"
+                },
+                "3": {
+                    "fildinho": "PRIMEIRO DO SEGUNDO GRUPO",
+                    "group_name3": {
+                        "1": {
+                            "field_name": "asdadasdasd",
+                            "field_name2": "XASXXZXZXC"
+                        }
+                    },
+                    "fildinho2": "terceiro nisso aqui"
+                }
+            }
+        }
+    ],
+    "group_isolado": {
+        "1": {
+            "field_name": "CAMPO ISOLADO DE TODOS"
+        }
+    }
+}

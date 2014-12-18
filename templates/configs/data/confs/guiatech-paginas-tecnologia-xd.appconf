@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>xDasdasd</name>
+  <type>page</type>
+  <id>44</id>
+  <config>guiatech-paginas-tecnologia-xd.appconf</config>
+  <data>guiatech-paginas-tecnologia-xdasdasd.appcontent</data>
+  <form>guiatech-paginas-tecnologia-xdasdasd.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-xdasdasd.inc</staging>
+          <live>tecnologia-xdasdasd.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-xdasdasd.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-xdasdasd.shtml</preview>
+</config>

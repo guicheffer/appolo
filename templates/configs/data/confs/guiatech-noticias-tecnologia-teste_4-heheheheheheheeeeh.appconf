@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>XXXXXXXXXX</name>
+  <type>section</type>
+  <id>100</id>
+  <config>guiatech-noticias-tecnologia-teste_4-heheheheheheheeeeh.appconf</config>
+  <data></data>
+  <form>guiatech-noticias-tecnologia-xxxxxxxxxx.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-tecnologia-xxxxxxxxxx.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+</config>

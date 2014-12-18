@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>ASXASASDASD</name>
+  <user>1</user>
+  <type>page</type>
+  <id>51</id>
+  <config>guiatech-paginas-teste_invisibilidade-asxasasdasd.appconf</config>
+  <data>guiatech-paginas-teste_invisibilidade-asxasasdasd.appcontent</data>
+  <form>guiatech-paginas-teste_invisibilidade-asxasasdasd.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>teste_invisibilidade-asxasasdasd.inc</staging>
+          <live>teste_invisibilidade-asxasasdasd.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-teste_invisibilidade-asxasasdasd.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/teste_invisibilidade-asxasasdasd.shtml</preview>
+  <status>0</status>
+</config>

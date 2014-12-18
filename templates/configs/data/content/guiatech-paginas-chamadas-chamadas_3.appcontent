@@ -1,0 +1,31 @@
+{
+    "chamada": [
+        {
+            "titulo": "Notebook 2",
+            "item": {
+                "1": {
+                    "url": "#",
+                    "titulo": "Compre aqui algum",
+                    "img": "http:\/\/dev.appolo.guiatech.com.br\/images.appolo\/1_Guia_Tech\/13\/teste.png?buster0.12998244306072593",
+                    "links": {
+                        "3": {
+                            "url": "",
+                            "titulo": ""
+                        }
+                    }
+                },
+                "2": {
+                    "url": "#",
+                    "titulo": "Rodolpho",
+                    "img": "",
+                    "links": {
+                        "3": {
+                            "url": "#",
+                            "titulo": "TESTE"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

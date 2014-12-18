@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>Guia Tech - v2.0 2</name>
+  <user>1</user>
+  <type>section</type>
+  <id>57</id>
+  <config>guiatech-noticias-sections-guia_tech_-_v2.appconf</config>
+  <data></data>
+  <form></form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-sections-guia_tech_-_v2.0.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+  <status>0</status>
+</config>

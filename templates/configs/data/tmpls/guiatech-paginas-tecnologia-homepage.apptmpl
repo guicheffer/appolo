@@ -1,0 +1,20 @@
+{% for item in group_name %}
+
+	
+	{% for item2 in item.group_name2 %}
+		<br><i>></i> Você digitou no primeiro campo: <b>{{item2.fildinho}}</b><br>
+			<p>- Que tem:</p>
+			{% for item3 in item2.group_name3 %}
+				{{item3.field_name}}
+			{% endfor %}
+	{% endfor %}
+
+	{#% for item2 in item.group_name2 %#}
+		{#% for item3 in item2.group_name3 %#}
+			<!--<br><b>- Sua {{item3.field_name}}</b><br>//-->
+		{#% endfor %#}
+	{#% endfor %#}
+
+{% endfor %}
+
+<!--//-->

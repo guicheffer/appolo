@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<page>
+  <name>nOME HEHEHEHE</name>
+  <id>13</id>
+  <config>guiatech-paginas-tecnologia-nome_hehehehe.appconf</config>
+  <data>guiatech-paginas-tecnologia-nome_hehehehe.appcontent</data>
+  <form>guiatech-paginas-tecnologia-nome_hehehehe.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live>tecnologia-nome_hehehehe.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-nome_hehehehe.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-nome_hehehehe.shtml</preview>
+</page>

@@ -1,0 +1,39 @@
+<group name="chamada" title="Chamada">
+
+  <field name="titulo" type="text" notnull>
+    <label>Título do bloco</label>
+    <input/>
+  </field>
+
+  <group name="item" title="Item" repeat max="2" min="1">
+
+    <field name="url" type="text" notnull>
+      <label>URL</label>
+      <input/>
+    </field>
+
+    <field name="titulo" type="text" notnull>
+      <label>Título</label>
+      <input/>
+    </field>
+
+    <field name="img" type="text" notnull>
+      <label>Imagem</label>
+      <input/>
+    </field>
+
+    <group name="links" title="Link" repeat max="3" min="1">
+      <field name="url" type="text" notnull>
+        <label>URL</label>
+        <input/>
+      </field>
+
+      <field name="titulo" type="text" notnull>
+        <label>Título</label>
+        <input/>
+      </field>
+    </group>
+
+  </group>
+
+</group>

@@ -1,0 +1,61 @@
+<group name="group_noticias" title="Homepage do Guia Tech">
+	<group name="barra_esquerda" title="Coluna esquerda">
+
+		<group name="noticias" title="Noticias" repeat max="5" min="2">
+			<field name="imagem" type="text">
+				<label>URL da imagem</label>
+				<input max="200"/>
+			</field>
+			<field name="url" type="text">
+				<label>URL da notícia</label>
+				<input max="200"/>
+			</field>
+			<field name="titulo" type="text">
+				<label>Titulo da notícia</label>
+				<input/>
+				<hint>Digite o título da notícia</hint>
+			</field>
+		</group>
+
+	</group>
+
+	<group name="barra_meio" title="Coluna meio">
+
+		<group name="noticias" title="Noticias" repeat max="5" min="2">
+			<field name="imagem" type="text">
+				<label>URL da imagem</label>
+				<input max="200"/>
+			</field>
+			<field name="url" type="text">
+				<label>URL da notícia</label>
+				<input max="200"/>
+			</field>
+			<field name="titulo" type="text">
+				<label>Titulo da notícia</label>
+				<input/>
+				<hint>Digite o título da notícia</hint>
+			</field>
+		</group>
+
+	</group>
+
+	<group name="barra_direita" title="Coluna direita">
+
+		<group name="noticias" title="Noticias" repeat max="5" min="2">
+			<field name="imagem" type="text">
+				<label>URL da imagem</label>
+				<input max="200"/>
+			</field>
+			<field name="url" type="text">
+				<label>URL da notícia</label>
+				<input max="200"/>
+			</field>
+			<field name="titulo" type="text">
+				<label>Titulo da notícia</label>
+				<input/>
+				<hint>Digite o título da notícia</hint>
+			</field>
+		</group>
+
+	</group>
+</group>

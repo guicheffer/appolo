@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>Mist&#xE9;rio</name>
+  <user>1</user>
+  <type>section</type>
+  <id>119</id>
+  <config>teste.appconf</config>
+  <data></data>
+  <form>guiatech-noticias-tecnologia-misterASDASDASDASDio....appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-tecnologia-misterio.......apptmpl</file>
+  </tmpls>
+  <preview></preview>
+  <status></status>
+</config>

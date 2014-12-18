@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>eraeraer</name>
+  <user>1</user>
+  <type>page</type>
+  <id>67</id>
+  <config>guiatech-paginas-tecnologia-eraeraer.appconf</config>
+  <data>guiatech-paginas-tecnologia-eraeraer.appcontent</data>
+  <form>guiatech-paginas-tecnologia-eraeraer.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-eraeraer.inc</staging>
+          <live>tecnologia-eraeraer.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-eraeraer.apptmpl</file>
+  </tmpls>
+  <preview>tecnologia-eraeraer.shtml</preview>
+  <status>0</status>
+</config>

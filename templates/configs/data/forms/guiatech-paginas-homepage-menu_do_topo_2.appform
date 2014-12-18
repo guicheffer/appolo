@@ -1,0 +1,24 @@
+<group name="menu" title="Menu">
+  
+  <group name="link" title="Item" repeat min="3" max="5">
+
+	<field name="name" type="text" notnull>
+		<label>Nome do item</label>
+		<input max="15"/>
+	</field>
+    
+   	<field name="url" type="text" notnull>
+		<label>URL do item</label>
+		<input/>
+		<hint>Digite o link do item</hint>
+	</field>
+    
+   	<field name="color" type="text" notnull>
+		<label>Cor do item</label>
+		<input/>
+		<hint>Digite como exemplo: vermelho, azul, laranja, preto</hint>
+	</field>
+   
+  </group>
+
+</group>

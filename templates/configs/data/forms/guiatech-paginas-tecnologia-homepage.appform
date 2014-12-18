@@ -1,0 +1,62 @@
+<group name="group_name" title="Nome do grupo 1">
+  
+  <field name="field_name" type="text" notnull>
+    <label>Nome do campo</label>
+    <input max="50"/>
+    <hint>Dica para o campo</hint>
+  </field>
+  
+  <field name="textarea" type="textarea">
+    <label>Nome do campo - textarea</label>
+    <input max="50"/>
+    <hint>Dica para o campo</hint>
+  </field>
+
+  <group name="group_name2" title="Nome do grupo 2" repeat max="5" min="1">
+  
+    <field name="fildinho" type="textarea">
+      <label>Textarea do grupo 2</label>
+      <input max="50"/>
+      <hint>Dica para o campo nada a ver</hint>
+    </field>
+
+    <group name="group_name3" title="Nome do grupo 3" repeat max="5" min="1">
+
+      <field name="field_name" type="text" notnull>
+        <label>Nome do campo</label>
+        <input max="50"/>
+        <hint>Dica para o campo</hint>
+      </field>
+      
+      <!--<group name="teste_do_meio" title="Testando os finalmentes" repeat max="2" min="1">
+        <field name="field" type="text" notnull>
+          <label>Digita ai qualquer coisa</label>
+          <input/>
+        </field>
+      </group>-->
+      
+      <field name="field_name2" type="text" notnull>
+        <label>Nome do campo 2</label>
+        <input max="50"/>
+        <hint>Dica para o campo</hint>
+      </field>
+      
+    </group>
+  
+    <field name="fildinho2" type="textarea">
+      <label>Segundo Textarea do grupo 2</label>
+      <input max="50"/>
+      <hint>Dica para o campo nada a ver</hint>
+    </field>
+
+  </group>
+
+</group>
+
+<group name="group_isolado" title="Grupo Isolado">
+  <field name="field_name" type="text" notnull>
+    <label>Nome do campo</label>
+    <input max="50"/>
+    <hint>Dica para o campo</hint>
+  </field>
+</group>

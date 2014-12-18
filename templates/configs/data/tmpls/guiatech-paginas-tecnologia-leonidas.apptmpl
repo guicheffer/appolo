@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>oooi leonidas</title>
+		<style type="text/css">
+			.red { background: #F00; color: #FFF; }
+		</style>
+	</head>
+	<body>
+
+		<h1>Preenchimento</h1>
+
+		<div class="red">
+          	{% for item in grupo %}{{item.leonidas}}{% endfor %}
+		</div>
+
+	</body>
+</html>

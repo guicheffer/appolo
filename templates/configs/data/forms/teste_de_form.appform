@@ -1,0 +1,66 @@
+<group name="group_noticias" title="Homepage do Guia Tech">
+	<group name="barra_esquerda" title="Coluna esquerda" repeat max="3" min="1">
+
+		<group name="links" title="Noticias" repeat max="2" min="0">
+			<field name="234234" type="text" notnull>
+				<label>Titulo da noticia</label>
+				<input max="10"/>
+			</field>
+			<field name="23423ansdihuasdh4" type="text">
+				<label>URL da noticia</label>
+				<input max="50"/>
+			</field>
+		</group>
+	</group>
+	<group name="barra_direita" title="Coluna direita" repeat max="3" min="1">
+
+		<group name="asdasdasd" title="Noticias" repeat max="5" min="0">
+			<field name="234234" type="text" notnull>
+				<label>Titulo da noticia</label>
+				<input max="10"/>
+			</field>
+
+			<!--test radios-->
+			<field name="testing" type="radio">
+				<label>O que é o Code Plex ? (RADIO)</label>
+				<input value="Opção qualquer"/>
+				<input value="Qualquer opção"/>
+				<input value="Qualquer opção" checked/>
+				<hint>Digite essa pemba aê!</hint>
+			</field>
+			<field name="testing_another-one" type="radio">
+				<label>O que é o Code Plex 2 ? (RADIO)</label>
+				<input value="Opção qualquer"/>
+				<input value="Qualquer opção"/>
+				<input value="Qualquer opção"/>
+				<hint>Digite essa pemba aê!</hint>
+			</field>
+			<!--/test radios-->
+
+			<!--test checkboxes-->
+			<field name="testing2" type="checkbox">
+				<label>O que é o Code Plex ? (CHECKBOX)</label>
+				<input value="Opção qualquer"/>
+				<input value="Qualquer opção" checked/>
+				<input value="Qualquer opção" checked/>
+				<hint>Digite essa pemba aê!</hint>
+			</field>
+
+			<field name="testing2_another-one" type="checkbox">
+				<label>O que é o Code Plex ? (CHECKBOX)</label>
+				<input value="Opção qualquer"/>
+				<input value="Qualquer opção"/>
+				<input value="Qualquer opção"/>
+				<hint>Digite essa pemba aê!</hint>
+			</field>
+			<!--/test checkboxes-->
+		</group>
+
+		<field name="testing" type="radio">
+			<label>O que é o Code Plex ? (RADIO)</label>
+			<input value="Opção qualquer"/>
+			<input value="Qualquer opção"/>
+			<hint>Digite essa pemba aê!</hint>
+		</field>
+	</group>
+</group>

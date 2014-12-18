@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+  <name>asdasdasdasd</name>
+  <type>page</type>
+  <id>48</id>
+  <config>guiatech-paginas-guia_tech__v1-asdasdasdasd.appconf</config>
+  <data>guiatech-paginas-guia_tech__v1-asdasdasdasd.appcontent</data>
+  <form>guiatech-paginas-guia_tech__v1-asdasdasdasd.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>guia_tech__v1-asdasdasdasd.inc</staging>
+          <live>guia_tech__v1-asdasdasdasd.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-guia_tech__v1-asdasdasdasd.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/guia_tech__v1-asdasdasdasd.shtml</preview>
+  <status>0</status>
+</config>

@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+{# % for item in group_name % #}
+
+<b>Sua {{ group_name.field_nameXX }}</b>
+
+{# % endfor % #}
+
+=======
+<<<<<<< HEAD
+<b>Sua {{variável}}</b>
+
+=======
+<b>Sua {{variável}}</b>
+
+>>>>>>> 55d941ef9425c12af9fc8e7b64523bfa8c553d4a
+>>>>>>> 549b5be0e9f53d53c2df5a8520942a6a5c21af5c
+<!--//-->

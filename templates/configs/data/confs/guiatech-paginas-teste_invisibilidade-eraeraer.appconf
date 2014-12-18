@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>eraeraer</name>
+  <user>1</user>
+  <type>page</type>
+  <id>50</id>
+  <config>guiatech-paginas-teste_invisibilidade-eraeraer.appconf</config>
+  <data>guiatech-paginas-teste_invisibilidade-eraeraer.appcontent</data>
+  <form>guiatech-paginas-teste_invisibilidade-eraeraer.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>teste_invisibilidade-eraeraer.inc</staging>
+          <live>teste_invisibilidade-eraeraer.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-teste_invisibilidade-eraeraer.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/teste_invisibilidade-eraeraer.shtml</preview>
+  <status>0</status>
+</config>

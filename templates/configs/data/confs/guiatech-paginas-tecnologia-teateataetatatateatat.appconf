@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<page>
+  <name>teateataetatatateatat</name>
+  <id></id>
+  <config>guiatech-paginas-tecnologia-teateataetatatateatat.appconf</config>
+  <data>guiatech-paginas-tecnologia-teateataetatatateatat.appcontent</data>
+  <form>guiatech-paginas-tecnologia-teateataetatatateatat.appform</form>
+  <tmpls>
+    <tmpl><outs><out><staging>tecnologia-teateataetatatateatat.inc</staging><live>tecnologia-teateataetatatateatat.inc</live></out></outs>guiatech-paginas-tecnologia-teateataetatatateatat.apptmpl</tmpl>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-teateataetatatateatat.shtml</preview>
+</page>

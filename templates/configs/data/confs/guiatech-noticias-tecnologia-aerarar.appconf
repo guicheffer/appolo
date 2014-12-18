@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>Legal o nome hein ?</name>
+  <user>1</user>
+  <type>section</type>
+  <id>133</id>
+  <config>guiatech-noticias-tecnologia-aerarar.appconf</config>
+  <data></data>
+  <form>guiatech-noticias-tecnologia-aerarar.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-tecnologia-aerarar.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+  <status></status>
+</config>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>teste &amp;#039;da hora&amp;#039; 2</name>
+  <type>section</type>
+  <id>101</id>
+  <config>guiatech-noticias-tecnologia-teste__da_hora__2.appconf</config>
+  <data></data>
+  <form>guiatech-noticias-tecnologia-teste__da_hora__2.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-tecnologia-teste__da_hora__2.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+</config>

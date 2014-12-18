@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>Puts ... chega !</name>
+  <type>section</type>
+  <id>132</id>
+  <config>guiatech-noticias-tecnologia-aeraeraer.appconf</config>
+  <data></data>
+  <form>guiatech-noticias-tecnologia-aeraeraer.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-tecnologia-aeraeraer.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+</config>

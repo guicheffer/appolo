@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>adads</name>
+  <user>1</user>
+  <type>page</type>
+  <id>57</id>
+  <config>guiatech-paginas-tecnologia-adads.appconf</config>
+  <data>guiatech-paginas-tecnologia-adads.appcontent</data>
+  <form>guiatech-paginas-tecnologia-adads.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-adads.inc</staging>
+          <live>tecnologia-adads.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-adads.apptmpl</file>
+  </tmpls>
+  <preview>tecnologia-adads.shtml</preview>
+  <status>0</status>
+</config>

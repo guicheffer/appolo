@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>teste invisible</name>
+  <user>1</user>
+  <type>page</type>
+  <id>53</id>
+  <config>guiatech-paginas-guia_tech__v1-teste_invisible.appconf</config>
+  <data>guiatech-paginas-guia_tech__v1-teste_invisible.appcontent</data>
+  <form>guiatech-paginas-guia_tech__v1-teste_invisible.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>guia_tech__v1-teste_invisible.inc</staging>
+          <live>guia_tech__v1-teste_invisible.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-guia_tech__v1-teste_invisible.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/guia_tech__v1-teste_invisible.shtml</preview>
+  <status>0</status>
+</config>

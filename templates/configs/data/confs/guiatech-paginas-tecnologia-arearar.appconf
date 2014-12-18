@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>arearar</name>
+  <type>page</type>
+  <id>46</id>
+  <config>guiatech-paginas-tecnologia-arearar.appconf</config>
+  <data>guiatech-paginas-tecnologia-arearar.aerearar</data>
+  <form>guiatech-paginas-tecnologia-arearar.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-arearar.inc</staging>
+          <live>tecnologia-arearar.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-arearar.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-arearar.shtml</preview>
+</config>

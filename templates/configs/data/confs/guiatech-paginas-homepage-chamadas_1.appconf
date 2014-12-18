@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>Chamadas 1</name>
+  <user>1</user>
+  <type>page</type>
+  <id>77</id>
+  <config>guiatech-paginas-homepage-chamadas_1.appconf</config>
+  <data>guiatech-paginas-homepage-chamadas_1.appcontent</data>
+  <form>guiatech-paginas-homepage-chamadas.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>includes/chamadas-1.inc</staging>
+          <live>includes/chamadas-1.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-homepage-chamadas.apptmpl</file>
+  </tmpls>
+  <preview>index.shtml</preview>
+  <status>0</status>
+</config>

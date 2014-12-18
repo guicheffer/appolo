@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<page>
+  <name>kkkkkkk xD</name>
+  <id></id>
+  <config>guiatech-paginas-tecnologia-kkkkkkk_xd.appconf</config>
+  <data>guiatech-paginas-tecnologia-kkkkkkk_xd.appcontent</data>
+  <form>guiatech-paginas-tecnologia-kkkkkkk_xd.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-kkkkkkk_xd.inc</staging>
+          <live>tecnologia-kkkkkkk_xd.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-kkkkkkk_xd.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/especiais/tecnologia-kkkkkkk_xd.shtml</preview>
+</page>

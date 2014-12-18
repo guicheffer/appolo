@@ -1,0 +1,9 @@
+<group name="grupo" title="Nome do grupo">
+
+	<field name="leonidas" type="text" notnull>
+		<label>Digita ai um nome</label>
+		<input max="10"/>
+		<hint>Nome de biblia qualquer</hint>
+	</field>
+
+</group>

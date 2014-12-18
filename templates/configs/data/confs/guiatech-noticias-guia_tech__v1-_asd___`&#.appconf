@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>'aSD&amp;quot;''`&amp;amp;#</name>
+  <user>1</user>
+  <type>section</type>
+  <id>24</id>
+  <config>guiatech-noticias-guia_tech__v1-_asd___`&amp;#.appconf</config>
+  <data></data>
+  <form>guiatech-noticias-guia_tech__v1-_asd___`&amp;#.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-guia_tech__v1-_asd___`&amp;#.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+  <status></status>
+</config>

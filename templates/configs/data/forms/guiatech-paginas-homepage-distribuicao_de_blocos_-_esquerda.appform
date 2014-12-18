@@ -1,0 +1,13 @@
+<group name="group" title="Blocos">
+  
+  <group name="item" title="Item">
+
+	<field name="titulo" type="text" notnull>
+		<label>Título</label>
+		<input max="10" />
+		<hint>Exemplo: chamadas-1, chamadas-2, etc.</hint>
+	</field>
+    
+  </group>
+
+</group>

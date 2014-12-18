@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>dadasdsa</name>
+  <user>1</user>
+  <type>section</type>
+  <id>179</id>
+  <config>text.appconf</config>
+  <data></data>
+  <form></form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>text.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+  <status>0</status>
+</config>

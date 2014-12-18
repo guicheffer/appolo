@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>&amp;quot;aspas&amp;quot; or &amp;#039;asp 434</name>
+  <type>page</type>
+  <id>38</id>
+  <config>guiatech-paginas-tecnologia-_aspas__or__aspas_.appconf</config>
+  <data>guiatech-paginas-tecnologia-_aspas__or__aspas_.appcontent</data>
+  <form>guiatech-paginas-tecnologia-_aspas__or__aspas_.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-_aspas__or__aspas_.inc</staging>
+          <live>tecnologia-_aspas__or__aspas_.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-_aspas__or__aspas_.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-_aspas__or__aspas_.shtml</preview>
+</config>

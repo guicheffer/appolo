@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * Contém todos os caminhos de templates utilizados pela aplicação
+ *
+ * @package		appolo
+ * @subpackage	dgjolero
+ */
+
+require ( DOCUMENT_ROOT . '/scripts/config.inc.php' ) ;
+
+require ( INIT_TEMPLATE ) ;
+
+?>

@@ -1,0 +1,11 @@
+{% for row in group %}
+
+  {% for box in row.item %}
+
+  	<!--#include file="{{box.titulo}}.inc"-->
+
+  {% endfor %}
+
+{% endfor %}
+
+<!--//-->

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>aERAERAERAER</name>
+  <user>1</user>
+  <type>page</type>
+  <id>55</id>
+  <config>guiatech-paginas-kotaekotakeotaet-aeraeraeraer.appconf</config>
+  <data>guiatech-paginas-kotaekotakeotaet-aeraeraeraer.appcontent</data>
+  <form>guiatech-paginas-kotaekotakeotaet-aeraeraeraer.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>kotaekotakeotaet-aeraeraeraer.inc</staging>
+          <live>kotaekotakeotaet-aeraeraeraer.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-kotaekotakeotaet-aeraeraeraer.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/kotaekotakeotaet-aeraeraeraer.shtml</preview>
+  <status>1</status>
+</config>

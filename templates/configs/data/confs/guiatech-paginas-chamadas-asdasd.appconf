@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>asdasd</name>
+  <user>1</user>
+  <type>page</type>
+  <id>81</id>
+  <config>guiatech-paginas-chamadas-asdasd.appconf</config>
+  <data>guiatech-paginas-chamadas-asdasd.appcontent</data>
+  <form>guiatech-paginas-chamadas-asdasd.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>chamadas-asdasd.inc</staging>
+          <live>chamadas-asdasd.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-chamadas-asdasd.apptmpl</file>
+  </tmpls>
+  <preview>chamadas-asdasd.shtml</preview>
+  <status>0</status>
+</config>

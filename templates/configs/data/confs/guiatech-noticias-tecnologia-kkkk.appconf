@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>kkkk</name>
+  <user>1</user>
+  <type>section</type>
+  <id>154</id>
+  <config>guiatech-noticias-tecnologia-kkkk.appconf</config>
+  <data></data>
+  <form></form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-tecnologia-kkkk.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+  <status>0</status>
+</config>

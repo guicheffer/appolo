@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<page>
+  <name>Nome da pagina</name>
+  <id>12</id>
+  <config>guiatech-paginas-tecnologia-nome_da_pagina.appconf</config>
+  <data>guiatech-paginas-tecnologia-nome_da_pagina.appcontent</data>
+  <form>guiatech-paginas-tecnologia-nome_da_pagina.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-nome_da_pagina.inc</staging>
+          <live>tecnologia-nome_da_pagina.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-nome_da_pagina.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-nome_da_pagina.shtml</preview>
+</page>

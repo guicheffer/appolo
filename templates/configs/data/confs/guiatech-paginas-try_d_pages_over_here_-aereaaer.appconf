@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+  <name>aereaaer</name>
+  <type>page</type>
+  <id>49</id>
+  <config>guiatech-paginas-try_d_pages_over_here_-aereaaer.appconf</config>
+  <data>guiatech-paginas-try_d_pages_over_here_-aereaaer.appcontent</data>
+  <form>guiatech-paginas-try_d_pages_over_here_-aereaaer.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>try_d_pages_over_here_-aereaaer.inc</staging>
+          <live>try_d_pages_over_here_-aereaaer.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-try_d_pages_over_here_-aereaaer.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/try_d_pages_over_here_-aereaaer.shtml</preview>
+  <status>0</status>
+</config>

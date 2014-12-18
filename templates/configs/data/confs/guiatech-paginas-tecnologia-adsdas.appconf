@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>ADSDAS</name>
+  <user>1</user>
+  <type>page</type>
+  <id>65</id>
+  <config>guiatech-paginas-tecnologia-adsdas.appconf</config>
+  <data>guiatech-paginas-tecnologia-adsdas.appcontent</data>
+  <form>guiatech-paginas-tecnologia-adsdas.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-adsdas.inc</staging>
+          <live>tecnologia-adsdas.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-adsdas.apptmpl</file>
+  </tmpls>
+  <preview>tecnologia-adsdas.shtml</preview>
+  <status>0</status>
+</config>

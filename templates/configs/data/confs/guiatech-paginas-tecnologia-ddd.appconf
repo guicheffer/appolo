@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>ddd</name>
+  <user>1</user>
+  <type>page</type>
+  <id>58</id>
+  <config>guiatech-paginas-tecnologia-ddd.appconf</config>
+  <data>guiatech-paginas-tecnologia-ddd.appcontent</data>
+  <form>guiatech-paginas-tecnologia-ddd.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-ddd.inc</staging>
+          <live>tecnologia-ddd.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-ddd.apptmpl</file>
+  </tmpls>
+  <preview>tecnologia-ddd.shtml</preview>
+  <status>1</status>
+</config>

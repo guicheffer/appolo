@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>&amp;#039;&amp;#039;&amp;#039;asD &amp;quot;&amp;quot;ASD&amp;#039; &amp;#039;aDS&amp;quot;&amp;quot;ASD &amp;#039;&amp;#039;ADS </name>
+  <type>page</type>
+  <id></id>
+  <config>guiatech-paginas-tecnologia-___asd___asd___ads__asd___ads_.appconf</config>
+  <data>guiatech-paginas-tecnologia-___asd___asd___ads__asd___ads_.appcontent</data>
+  <form>guiatech-paginas-tecnologia-___asd___asd___ads__asd___ads_.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-___asd___asd___ads__asd___ads_.inc</staging>
+          <live>tecnologia-___asd___asd___ads__asd___ads_.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-___asd___asd___ads__asd___ads_.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-___asd___asd___ads__asd___ads_.shtml</preview>
+</config>

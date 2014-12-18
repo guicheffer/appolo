@@ -1,0 +1,11 @@
+{% for menu_item in menu %}
+<nav>
+  <ul>
+	{% for item in menu_item.link %}
+    	<li><a href="{{item.url}}" class="{{item.color}}">{{item.name}}</a></li>
+	{% endfor %}     
+  </ul>
+</nav>
+{% endfor %}
+
+<!--//-->

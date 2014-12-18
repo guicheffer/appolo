@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>asdasd</name>
+  <user>1</user>
+  <type>page</type>
+  <id>70</id>
+  <config>guiatech-paginas-tecnologia-asdasd.appconf</config>
+  <data>guiatech-paginas-tecnologia-asdasd.appcontent</data>
+  <form>guiatech-paginas-tecnologia-asdasd.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-asdasd.inc</staging>
+          <live>tecnologia-asdasd.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-asdasd.apptmpl</file>
+  </tmpls>
+  <preview>tecnologia-asdasd.shtml</preview>
+  <status>0</status>
+</config>

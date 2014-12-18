@@ -1,0 +1,1 @@
+<?php if ( ! $util->get_connected_db() ) { $util->close_db( $util->configs ); } ?>

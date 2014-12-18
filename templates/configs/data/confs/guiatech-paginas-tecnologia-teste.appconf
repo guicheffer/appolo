@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>teste</name>
+  <user>1</user>
+  <type>page</type>
+  <id>60</id>
+  <config>guiatech-paginas-tecnologia-teste.appconf</config>
+  <data>guiatech-paginas-tecnologia-teste.appcontent</data>
+  <form>guiatech-paginas-tecnologia-teste.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-teste.inc</staging>
+          <live>tecnologia-teste.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-teste.apptmpl</file>
+  </tmpls>
+  <preview>tecnologia-teste.shtml</preview>
+  <status>0</status>
+</config>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>xxxx</name>
+  <user>1</user>
+  <type>page</type>
+  <id>61</id>
+  <config>guiatech-paginas-tecnologia-kkk.appconf</config>
+  <data>guiatech-paginas-tecnologia-kkk.appcontent</data>
+  <form>guiatech-paginas-tecnologia-kkk.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-kkk.inc</staging>
+          <live>tecnologia-kkk.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-kkk.apptmpl</file>
+  </tmpls>
+  <preview>tecnologia-kkk.shtml</preview>
+  <status>0</status>
+</config>

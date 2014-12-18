@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>asdas asd asdas </name>
+  <type>page</type>
+  <id>42</id>
+  <config>guiatech-paginas-tecnologia-asdas_asd_asdas_.appconf</config>
+  <data>guiatech-paginas-tecnologia-asdas_asd_asdas_.appcontent</data>
+  <form>guiatech-paginas-tecnologia-asdas_asd_asdas_.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-asdas_asd_asdas_.inc</staging>
+          <live>tecnologia-asdas_asd_asdas_.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-asdas_asd_asdas_.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-asdas_asd_asdas_.shtml</preview>
+</config>

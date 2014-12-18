@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>dasdasd</name>
+  <user>1</user>
+  <type>page</type>
+  <id>78</id>
+  <config>guiatech-paginas-homepage-dasdasd.appconf</config>
+  <data>guiatech-paginas-homepage-dasdasd.appcontent</data>
+  <form>guiatech-paginas-homepage-dasdasd.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>homepage-dasdasd.inc</staging>
+          <live>homepage-dasdasd.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-homepage-dasdasd.apptmpl</file>
+  </tmpls>
+  <preview>homepage-dasdasd.shtml</preview>
+  <status>0</status>
+</config>

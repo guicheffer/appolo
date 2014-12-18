@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>testee &amp;#039;legal&amp;#039; 2</name>
+  <type>page</type>
+  <id>36</id>
+  <config>guiatech-paginas-tecnologia-testee__legal_.appconf</config>
+  <data>guiatech-paginas-tecnologia-testee__legal_.appcontent</data>
+  <form>guiatech-paginas-tecnologia-testee__legal_.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-testee__legal_.inc</staging>
+          <live>tecnologia-testee__legal_.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-testee__legal_.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-testee__legal_.shtml</preview>
+</config>

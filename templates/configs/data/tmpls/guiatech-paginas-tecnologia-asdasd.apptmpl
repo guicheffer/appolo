@@ -1,0 +1,7 @@
+{% for item in group_name %>
+
+	<b>Sua {{variavel}}</b>
+
+{% endfor %>
+
+<!--//-->

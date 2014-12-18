@@ -1,0 +1,9 @@
+<group name="group_name" title="Nome do grupo">
+
+	<field name="field_name" type="text" notnull>
+		<label>Nome do campo</label>
+		<input max="50"/>
+		<hint>Dica para o campo</hint>
+	</field>
+
+</group>

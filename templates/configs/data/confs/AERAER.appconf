@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>taetaet</name>
+  <type>section</type>
+  <id>123</id>
+  <config>AERAER.appconf</config>
+  <data></data>
+  <form>.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-tecnologia-taetaet.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+</config>

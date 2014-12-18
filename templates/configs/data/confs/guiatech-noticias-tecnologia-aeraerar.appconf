@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>aeraerar</name>
+  <type>section</type>
+  <id>127</id>
+  <config>guiatech-noticias-tecnologia-aeraerar.appconf</config>
+  <data></data>
+  <form>guiatech-noticias-tecnologia-aeraerar.aerearar</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-tecnologia-aeraerar.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+</config>

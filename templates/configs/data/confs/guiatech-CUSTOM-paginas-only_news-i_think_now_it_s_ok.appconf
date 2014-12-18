@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+  <name>I think now it's ok</name>
+  <type>page</type>
+  <id>6</id>
+  <config>guiatech-CUSTOM-paginas-only_news-i_think_now_it_s_ok.appconf</config>
+  <data>guiatech-paginas-try_d_pages_over_here_-i_think_now_it_s_ok.appcontent</data>
+  <form>guiatech-paginas-try_d_pages_over_here_-i_think_now_it_s_ok.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>try_d_pages_over_here_-i_think_now_it_s_ok.inc</staging>
+          <live>try_d_pages_over_here_-i_think_now_it_s_ok.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-try_d_pages_over_here_-i_think_now_it_s_ok.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/try_d_pages_over_here_-i_think_now_it_s_ok.shtml</preview>
+  <status>1</status>
+</config>

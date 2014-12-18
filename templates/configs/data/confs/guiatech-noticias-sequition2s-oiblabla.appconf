@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>OIBLABLA</name>
+  <user>1</user>
+  <type>section</type>
+  <id>189</id>
+  <config>guiatech-noticias-sequition2s-oiblabla.appconf</config>
+  <data></data>
+  <form></form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-sequition2s-oiblabla.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+  <status>0</status>
+</config>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>sequition2s</name>
+  <user>1</user>
+  <type>section</type>
+  <id>187</id>
+  <config>guiatech-noticias-sections-sequition.appconf</config>
+  <data></data>
+  <form></form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-sections-sequition.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+  <status>0</status>
+</config>

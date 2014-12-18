@@ -1,0 +1,5 @@
+<h1>Forbidden</h1>
+
+<p>You don't have permission to access <i><!--#echo var="REQUEST_URI" --></i> on this server.</p>
+
+<p>Additionally, a 404 Not Found error was encountered while trying to use an ErrorDocument to handle the request.</p>

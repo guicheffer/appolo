@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>aerAERAERAERARAERAER</name>
+  <user>1</user>
+  <type>section</type>
+  <id>147</id>
+  <config>guiatech-noticias-tecnologia-aeraeraeraeraraeraer.appconf</config>
+  <data></data>
+  <form></form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-tecnologia-aeraeraeraeraraeraer.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+  <status>0</status>
+</config>

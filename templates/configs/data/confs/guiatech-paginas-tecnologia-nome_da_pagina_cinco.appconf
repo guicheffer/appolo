@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>Nome da pagina FINAL !</name>
+  <user>1</user>
+  <type>page</type>
+  <id>30</id>
+  <config>guiatech-paginas-tecnologia-nome_da_pagina_cinco.appconf</config>
+  <data>guiatech-paginas-tecnologia-nome_da_pagina_cinco.appcontent</data>
+  <form>guiatech-paginas-tecnologia-nome_da_pagina_cinco.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-nome_da_pagina_final.inc</staging>
+          <live>tecnologia-nome_da_pagina_final.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>thereisaname.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-nome_da_pagina_final.shtml</preview>
+  <status>1</status>
+</config>

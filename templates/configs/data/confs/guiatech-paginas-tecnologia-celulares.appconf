@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<page>
+  <name>Celulares</name>
+  <id>19</id>
+  <config>guiatech-paginas-tecnologia-celulares.appconf</config>
+  <data>guiatech-paginas-tecnologia-celulares.appcontent</data>
+  <form>guiatech-paginas-tecnologia-celulares.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-celulares.inc</staging>
+          <live>tecnologia-celulares.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-celulares.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-celulares.shtml</preview>
+</page>

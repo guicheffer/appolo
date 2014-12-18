@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>teste nova pagina</name>
+  <user>1</user>
+  <type>page</type>
+  <id>54</id>
+  <config>guiatech-paginas-guia_tech__v1-teste_nova_pagina.appconf</config>
+  <data>guiatech-paginas-guia_tech__v1-teste_nova_pagina.appcontent</data>
+  <form>guiatech-paginas-guia_tech__v1-teste_nova_pagina.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>guia_tech__v1-teste_nova_pagina.inc</staging>
+          <live>guia_tech__v1-teste_nova_pagina.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-guia_tech__v1-teste_nova_pagina.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/guia_tech__v1-teste_nova_pagina.shtml</preview>
+  <status>0</status>
+</config>

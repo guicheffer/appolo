@@ -1,0 +1,44 @@
+<?php
+	global $util ;
+	global $appolo_gui ;
+
+	$util->set_home( 1 ) ;
+	$session = "crud" ;
+	$new = $_POST["new_id"] ;
+	$close = isset( $_POST["close"] ) ? $_POST["close"] : '' ;
+	$section = $util->get_news_new()[0]['idSecao'] ;
+	$editing = $_POST["editing"] ;
+	$section_data = $util->get_section( $section ) ;
+	$config_tmpl = $util->get_field_xml_config( $section_data[ 'caminhoFisico' ], 'tmpl' ) ;]
+	$new_created = false ;
+
+	print $config_tmpl ;
+	exit;
+
+	if( file_exists( TMPLS_DIR . $config_tmpl ) ){
+		$new_created = true ;
+	}
+
+	$util->save_content_tmpl( $config_tmpl, str_replace( "%/>", "%}", str_replace( "<%", "{%", $editing ) ) ) ;
+
+	require ( CLOSE_DB_TEMPLATE ) ;
+
+	if( ! $new_created ){
+		$util->set_warn( '11' ) ;
+		$util->set_session( 'page_created', $page ) ;
+	}else{
+		$util->set_warn( '12' ) ;
+		$util->set_session( 'page_updated', $page ) ;
+	}
+
+	$util->set_session( 'file_saved', $config_tmpl ) ;
+
+	if( $close ){
+		$appolo_gui->go_to_this( SECTIONS_NEWS_URL . $section ) ;
+	}else{
+		$appolo_gui->go_to_this( ( str_replace( '-id-', $page, NEWS_CREATE_TMPL ) ) ) ;
+	}
+
+	exit ;
+
+?>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>Teste 4</name>
+  <type>section</type>
+  <id>100</id>
+  <config>guiatech-paginas-tecnologia-teste_4.appconf</config>
+  <data></data>
+  <form>guiatech-noticias-tecnologia-teste_4.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging></staging>
+          <live></live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-noticias-tecnologia-teste_4.apptmpl</file>
+  </tmpls>
+  <preview></preview>
+</config>

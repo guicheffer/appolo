@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>Primeiro teste com formul&#xE1;rio</name>
+  <user>1</user>
+  <type>page</type>
+  <id>31</id>
+  <config>guiatech-paginas-tecnologia-teste-form.appconf</config>
+  <data>guiatech-paginas-tecnologia-teste_com_formulario.appcontent</data>
+  <form>guiatech-paginas-tecnologia-teste_com_formulario.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-teste_com_formulario.inc</staging>
+          <live>tecnologia-teste_com_formulario.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-teste_com_formularioxdddddd.apptmpl</file>
+  </tmpls>
+  <preview>tecnologia-teste_com_formulario.shtml</preview>
+  <status>0</status>
+</config>

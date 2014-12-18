@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>Leonidas</name>
+  <user>1</user>
+  <type>page</type>
+  <id>69</id>
+  <config>guiatech-paginas-tecnologia-leonidas.appconf</config>
+  <data>guiatech-paginas-tecnologia-leonidas.appcontent</data>
+  <form>guiatech-paginas-tecnologia-leonidas.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>seila.shtml</staging>
+          <live>seila.shtml</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-leonidas.apptmpl</file>
+  </tmpls>
+  <preview>seila.shtml</preview>
+  <status>0</status>
+</config>

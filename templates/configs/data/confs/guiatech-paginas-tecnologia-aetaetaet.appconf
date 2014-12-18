@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<page>
+  <name>aetaetaet</name>
+  <id>15</id>
+  <config>guiatech-paginas-tecnologia-aetaetaet.appconf</config>
+  <data>guiatech-paginas-tecnologia-aetaetaet.appcontent</data>
+  <form>guiatech-paginas-tecnologia-aetaetaet.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-aetaetaet.inc</staging>
+          <live>tecnologia-aetaetaet.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-aetaetaet.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-aetaetaet.shtml</preview>
+</page>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>XlastX</name>
+  <user>1</user>
+  <type>page</type>
+  <id>62</id>
+  <config>guiatech-paginas-tecnologia-xxxxx2.appconf</config>
+  <data>guiatech-paginas-tecnologia-xxxxx2.appcontent</data>
+  <form>guiatech-paginas-tecnologia-xxxxx2.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-xxxxx2.inc</staging>
+          <live>tecnologia-xxxxx2.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-xxxxx2.apptmpl</file>
+  </tmpls>
+  <preview>tecnologia-xxxxx2.shtml</preview>
+  <status>1</status>
+</config>

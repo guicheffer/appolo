@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>Nome da pagina teste finalAERAER</name>
+  <type>page</type>
+  <id>31</id>
+  <config>guiatech-paginas-tecnologia-nome_da_pagina_teste_final.appconf</config>
+  <data>guiatech-paginas-tecnologia-nome_da_pagina_teste_finalaeraer.appcontent</data>
+  <form>guiatech-paginas-tecnologia-nome_da_pagina_teste_finalaeraer.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-nome_da_pagina_teste_finalaeraer.inc</staging>
+          <live>tecnologia-nome_da_pagina_teste_finalaeraer.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-nome_da_pagina_teste_finalaeraer.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-nome_da_pagina_teste_finalaeraer.shtml</preview>
+</config>

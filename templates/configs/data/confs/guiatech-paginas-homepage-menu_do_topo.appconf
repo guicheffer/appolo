@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>Menu do topo</name>
+  <user>1</user>
+  <type>page</type>
+  <id>75</id>
+  <config>guiatech-paginas-homepage-menu_do_topo.appconf</config>
+  <data>guiatech-paginas-homepage-menu_do_topo.appcontent</data>
+  <form>guiatech-paginas-homepage-menu_do_topo.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>homepage-menu_do_topo.inc</staging>
+          <live>homepage-menu_do_topo.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-homepage-menu_do_topo.apptmpl</file>
+  </tmpls>
+  <preview>index.shtml</preview>
+  <status>1</status>
+</config>

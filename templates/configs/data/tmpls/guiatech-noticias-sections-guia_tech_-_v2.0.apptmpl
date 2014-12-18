@@ -1,0 +1,7 @@
+<u>Título</u>: {{titulo}}
+
+<i>Texto</i>: {{texto}}
+
+<b>Seção</b>: {{section}}
+
+<!--//-->

@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+  RewriteRule !\.(js|html|ico|gif|jpg|png|css|shtml|json|woff|map|ttf|svg|appconf|appcontent|appform|apptmpl|inc|shtml)$ index.php
+</IfModule>

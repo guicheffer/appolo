@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+  <name>DDDDDDDDD</name>
+  <user>1</user>
+  <type>page</type>
+  <id>52</id>
+  <config>guiatech-paginas-tecnologia-ddddddddd.appconf</config>
+  <data>guiatech-paginas-tecnologia-ddddddddd.appcontent</data>
+  <form>guiatech-paginas-tecnologia-ddddddddd.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-ddddddddd.inc</staging>
+          <live>tecnologia-ddddddddd.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-ddddddddd.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-ddddddddd.shtml</preview>
+  <status>0</status>
+</config>

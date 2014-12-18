@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+  <name>&amp;quot;&amp;quot;asd&amp;#039;&amp;#039;asd&amp;#039;A&amp;quot;asd&amp;#039; &amp;#039;ae&amp;#039;t&amp;#039;aeteaste</name>
+  <type>page</type>
+  <id></id>
+  <config>guiatech-paginas-tecnologia-__asd__asd_a_asd___ae_t_aeteaste.appconf</config>
+  <data>guiatech-paginas-tecnologia-__asd__asd_a_asd___ae_t_aeteaste.appcontent</data>
+  <form>guiatech-paginas-tecnologia-__asd__asd_a_asd___ae_t_aeteaste.appform</form>
+  <tmpls>
+    <tmpl>
+      <outs>
+        <out>
+          <staging>tecnologia-__asd__asd_a_asd___ae_t_aeteaste.inc</staging>
+          <live>tecnologia-__asd__asd_a_asd___ae_t_aeteaste.inc</live>
+        </out>
+      </outs>
+    </tmpl>
+    <file>guiatech-paginas-tecnologia-__asd__asd_a_asd___ae_t_aeteaste.apptmpl</file>
+  </tmpls>
+  <preview>http://staging.www.guiatech.com.br/gt/tecnologia-__asd__asd_a_asd___ae_t_aeteaste.shtml</preview>
+</config>

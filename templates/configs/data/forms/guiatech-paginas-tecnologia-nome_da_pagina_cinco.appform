@@ -1,0 +1,6 @@
+<group name="group1">
+	<input type="text" name="field1">
+</group>
+<group name="group2">
+	<input type="text" name="field1">
+</group>
